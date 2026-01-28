@@ -1,4 +1,3 @@
-# 25/1/25
 
 # Student Burnout Detection System
 
@@ -12,7 +11,6 @@ To provide early warnings and actionable suggestions without offering medical ad
 Backend setup in progress.
 
 
-# 26/1/26
 
 ## Burnout Inputs
 ### Core
